@@ -1,9 +1,11 @@
-﻿// comentario de uma linha
+﻿
+
+// comentario de uma linha
 
 /* comentario de 
 multiplas linhas
 
-*/
+
 
 
 // Declarando variavel
@@ -16,3 +18,4 @@ number = 10;
 
 Writeline number
 
+/*
